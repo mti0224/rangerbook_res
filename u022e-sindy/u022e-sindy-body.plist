@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u022e-sindy-body_101x99.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {101, 97}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{101, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 99}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{123, 0}, {101, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_104x112.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 112}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{17, 0}, {104, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_125x78.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {125, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{125, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 78}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{226, 0}, {125, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_13x16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {13, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{13, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{13, 16}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{104, 134}, {13, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_15x113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {15, 109}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{15, 113}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 113}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {15, 113}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_18x18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {16, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 114}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_18x18_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {14, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{66, 114}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_20x16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {20, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 16}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{336, 116}, {20, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_24x34.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {22, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{24, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{374, 82}, {24, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_26x32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 32}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{308, 106}, {26, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_27x32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {27, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{27, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 32}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{345, 82}, {27, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_35x24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {33, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{35, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 24}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{308, 80}, {35, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_43x29.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {43, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{43, 29}</string>
+			<key>spriteSourceSize</key>
+			<string>{43, 29}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 176}, {43, 29}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_44x23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {42, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{44, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 23}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{58, 172}, {44, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_44x35.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {42, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{44, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 35}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{58, 135}, {44, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_4x4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {4, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{4, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{4, 4}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{106, 114}, {4, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_56x39.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {56, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{56, 39}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 39}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 135}, {56, 39}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_64x18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{64, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 115}, {64, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_80x70.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {78, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 70}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{123, 101}, {80, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_80x71.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {78, 67}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 71}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{226, 80}, {80, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u022e-sindy-body_85x80.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {85, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{85, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{85, 80}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{353, 0}, {85, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u022e-sindy-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

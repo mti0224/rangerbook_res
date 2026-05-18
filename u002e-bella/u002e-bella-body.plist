@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u002e-bella-body_10x4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{10, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 4}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{30, 54}, {10, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_10x7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 7}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{10, 7}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 7}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 54}, {10, 7}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_11x14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{11, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 14}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{116, 0}, {11, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_14x14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {12, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{14, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{14, 14}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{17, 110}, {14, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_15x12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {15, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{15, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 12}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{40, 60}, {15, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_15x14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {13, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{15, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 14}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 110}, {15, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_16x11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {12, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{16, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{16, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{11, 63}, {16, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_20x27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {18, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{22, 76}, {20, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_20x32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {18, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 32}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 76}, {20, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_22x28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {20, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 28}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{103, 46}, {22, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_22x28_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {20, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 28}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{106, 16}, {22, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_26x21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{26, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 21}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{33, 105}, {26, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_31x24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {29, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{31, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 24}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{70, 39}, {31, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_34x22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {32, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{34, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 22}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{70, 15}, {34, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_44x13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 13}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{44, 13}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 13}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{70, 0}, {44, 13}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_68x52.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {68, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{68, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 52}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {68, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_7x5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {7, 5}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{7, 5}</string>
+			<key>spriteSourceSize</key>
+			<string>{7, 5}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{21, 54}, {7, 5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_7x7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {7, 7}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{7, 7}</string>
+			<key>spriteSourceSize</key>
+			<string>{7, 7}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{12, 54}, {7, 7}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_9x13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {9, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{9, 13}</string>
+			<key>spriteSourceSize</key>
+			<string>{9, 13}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{29, 61}, {9, 13}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u002e-bella-body_9x9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {9, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{9, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{9, 9}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 65}, {9, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{128, 128}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u002e-bella-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

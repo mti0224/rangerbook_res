@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u004e-clark-body_102x116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {100, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{102, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{102, 116}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 129}, {102, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_11x11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{11, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{172, 244}, {11, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_18x18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {16, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{172, 224}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_18x18_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {14, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{201, 101}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_25x38.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {23, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{25, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{25, 38}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{266, 0}, {25, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_27x37.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {25, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{27, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 37}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{293, 0}, {27, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_28x35.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {26, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{28, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 35}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{188, 64}, {28, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_28x35_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {26, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{28, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 35}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{158, 64}, {28, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_3x32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {3, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{3, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{3, 32}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{104, 224}, {3, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 20}, {14, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{262, 148}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 19}, {20, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{222, 106}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 11}, {20, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{264, 106}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {20, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{220, 166}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{234, 208}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{224, 0}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{178, 166}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_40x40_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{192, 208}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_42x42.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{42, 42}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{178, 122}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_51x22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {49, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{51, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 22}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{82, 101}, {51, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_61x27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {59, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{61, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{109, 224}, {61, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_61x37.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{61, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 37}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{288, 40}, {61, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_64x19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{64, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 19}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{135, 101}, {64, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_64x62.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 62}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{158, 0}, {64, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_65x40.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {65, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{65, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{221, 64}, {65, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_72x97.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 97}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{72, 97}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 97}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{104, 125}, {72, 97}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_74x99.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {74, 97}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{74, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 99}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{82, 0}, {74, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u004e-clark-body_80x127.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 127}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 127}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 127}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {80, 127}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u004e-clark-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

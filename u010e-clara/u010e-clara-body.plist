@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u010e-clara-body_102x98.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {100, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{102, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{102, 98}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{179, 123}, {102, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_104x104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {100, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 104}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{138, 284}, {104, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_104x121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {102, 119}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 121}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 121}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 0}, {104, 121}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_104x87.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 87}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{403, 0}, {104, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_110x140.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 14}, {100, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{110, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{110, 140}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 286}, {110, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_11x11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{11, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 428}, {11, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_18x18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {16, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 488}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_18x18_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {14, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{20, 488}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_20x27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 129}, {20, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_20x27_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 216}, {20, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_20x27_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 187}, {20, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_20x27_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{20, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 158}, {20, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_22x25.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {22, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 25}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 102}, {22, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_24x486.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {20, 482}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{24, 486}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 486}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {24, 486}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_36x49.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {34, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{36, 49}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 49}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 0}, {36, 49}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_36x49_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {34, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{36, 49}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 49}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{283, 51}, {36, 49}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_47x47.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{47, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 47}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{192, 0}, {47, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_58x17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {58, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{58, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{58, 17}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{338, 68}, {58, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_58x17_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {58, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{58, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{58, 17}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{338, 49}, {58, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_58x284.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {54, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{58, 284}</string>
+			<key>spriteSourceSize</key>
+			<string>{58, 284}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 0}, {58, 284}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_59x47.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {57, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{59, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 47}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{338, 0}, {59, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_74x76.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {70, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{74, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 76}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{327, 426}, {74, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_79x63.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 5}, {79, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{79, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{79, 63}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{321, 87}, {79, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_79x63_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 5}, {79, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{79, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{79, 63}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{305, 152}, {79, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_89x69.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {89, 69}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{89, 69}</string>
+			<key>spriteSourceSize</key>
+			<string>{89, 69}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{192, 49}, {89, 69}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_89x83.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {89, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{89, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{89, 83}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{40, 428}, {89, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_90x52.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {90, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{90, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 52}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{178, 230}, {90, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_90x52_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {90, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{90, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 52}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 230}, {90, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_91x105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {89, 103}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{91, 105}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 105}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 123}, {91, 105}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_96x78.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 78}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{131, 428}, {96, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_96x78_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 78}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{229, 426}, {96, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_98x34.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 5}, {78, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{403, 89}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_98x34_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 3}, {86, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{403, 125}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_98x34_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {90, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{138, 390}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_98x34_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {94, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{403, 197}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_98x34_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {96, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{238, 390}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u010e-clara-body_98x34_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {96, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{403, 161}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u010e-clara-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

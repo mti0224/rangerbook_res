@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u011e-xan-body_109x161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {109, 161}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{109, 161}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 161}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{151, 161}, {109, 161}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_146x159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 157}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{146, 159}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 159}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{151, 0}, {146, 159}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_149x179.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {149, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{149, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{149, 179}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {149, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_18x18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {16, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{360, 240}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_18x18_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {14, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{481, 0}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_22x16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 16}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{76, 389}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_22x8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {22, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 8}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 8}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{437, 98}, {22, 8}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_24x10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {24, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{24, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 10}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{360, 228}, {24, 10}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_24x12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {24, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{24, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 12}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{360, 214}, {24, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_27x56.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {27, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{27, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 56}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{360, 156}, {27, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_38x50.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {38, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{38, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{38, 50}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{193, 376}, {38, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_38x57.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {38, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{38, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{38, 57}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{257, 338}, {38, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_39x68.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{39, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{100, 337}, {39, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_40x68.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {40, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{40, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{389, 192}, {40, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_42x63.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {42, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{42, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{42, 63}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{437, 0}, {42, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_42x72.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {42, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{42, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{42, 72}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{149, 324}, {42, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_45x71.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {45, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{45, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{45, 71}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{393, 119}, {45, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_46x27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {46, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{46, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{339, 319}, {46, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_47x44.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{47, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 44}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{100, 291}, {47, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_48x53.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {48, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{48, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 53}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{100, 236}, {48, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_49x53.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {49, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{49, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{49, 53}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{100, 181}, {49, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_54x125.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {54, 125}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{54, 125}</string>
+			<key>spriteSourceSize</key>
+			<string>{54, 125}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{299, 0}, {54, 125}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_54x53.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {52, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{54, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{54, 53}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{339, 264}, {54, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_62x50.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {62, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{62, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{62, 50}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{193, 324}, {62, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_73x31.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{73, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 31}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{437, 65}, {73, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_74x67.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 67}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{74, 67}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 67}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 389}, {74, 67}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_75x72.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {75, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{75, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{75, 72}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{262, 264}, {75, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_80x117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {78, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 117}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 117}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{355, 0}, {80, 117}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_92x27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {92, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{92, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 27}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{299, 127}, {92, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_96x101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 101}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 101}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 101}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{262, 161}, {96, 101}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_98x101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 101}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 101}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 101}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 286}, {98, 101}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u011e-xan-body_98x103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {96, 101}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 103}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 103}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 181}, {98, 103}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u011e-xan-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u007e-ryan-body_104x31.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 31}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{158, 223}, {104, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_14x10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {12, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{14, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{14, 10}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{134, 246}, {14, 10}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_16x11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {12, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{16, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{16, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{104, 234}, {16, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_173x152.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {173, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{173, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{173, 152}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {173, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_17x8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {17, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{17, 8}</string>
+			<key>spriteSourceSize</key>
+			<string>{17, 8}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{115, 247}, {17, 8}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_22x10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {20, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 10}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{122, 234}, {22, 10}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_22x20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 20}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{28, 234}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_23x6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {21, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{23, 6}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 6}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{52, 249}, {23, 6}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_25x9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {25, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{25, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{25, 9}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{77, 247}, {25, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_26x21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{26, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 21}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 234}, {26, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_29x11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{29, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{73, 234}, {29, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_36x54.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {36, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{36, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 54}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{244, 0}, {36, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_49x67.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {47, 67}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{49, 67}</string>
+			<key>spriteSourceSize</key>
+			<string>{49, 67}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{158, 154}, {49, 67}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_52x63.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{52, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 63}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{209, 133}, {52, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_56x61.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {56, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{56, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 61}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{243, 67}, {56, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_59x78.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {57, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{59, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 78}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{97, 154}, {59, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_66x64.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{66, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{66, 64}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{175, 67}, {66, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_67x65.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 65}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{67, 65}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 65}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{175, 0}, {67, 65}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_71x52.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {69, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{71, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{71, 52}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{282, 0}, {71, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_74x50.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{74, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 50}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{263, 130}, {74, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_77x43.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {73, 39}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{77, 43}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 43}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{301, 54}, {77, 43}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_8x13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {6, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{8, 13}</string>
+			<key>spriteSourceSize</key>
+			<string>{8, 13}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{52, 234}, {8, 13}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_95x78.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {95, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{95, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{95, 78}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 154}, {95, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_9x12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {9, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{9, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{9, 12}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{62, 234}, {9, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u007e-ryan-body_9x9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {9, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{9, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{9, 9}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{104, 247}, {9, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u007e-ryan-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

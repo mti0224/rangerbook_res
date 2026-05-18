@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>u014e-cony-body_102x53.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {102, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{102, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{102, 53}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{479, 87}, {102, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_104x104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {100, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 104}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{192, 0}, {104, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_104x112.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {100, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 112}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 0}, {104, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_104x87.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 87}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{298, 0}, {104, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_14x14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {12, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{14, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{14, 14}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{298, 89}, {14, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_14x26.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {12, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{14, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{14, 26}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{462, 120}, {14, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_15x30.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {13, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{15, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 30}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{462, 88}, {15, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_16x11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 0}, {12, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{16, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{16, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{314, 89}, {16, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_24x37.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {22, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{24, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 37}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{464, 309}, {24, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_24x486.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {20, 482}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{24, 486}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 486}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {24, 486}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_28x28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 28}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{434, 309}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_29x38.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {27, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{29, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 38}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{515, 288}, {29, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_29x38_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {27, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{29, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 38}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{59, 474}, {29, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_30x33.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {28, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{30, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{30, 33}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{344, 318}, {30, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_30x33_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {28, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{30, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{30, 33}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{93, 440}, {30, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_31x39.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {29, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{31, 39}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 39}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{311, 318}, {31, 39}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_31x39_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {29, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{31, 39}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 39}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 440}, {31, 39}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_31x39_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {29, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{31, 39}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 39}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{278, 318}, {31, 39}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_31x39_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {29, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{31, 39}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 39}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{174, 396}, {31, 39}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_32x23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {30, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 488}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_32x32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {30, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 32}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{59, 440}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_34x38.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 38}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{239, 298}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_38x19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {38, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{38, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{38, 19}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{239, 277}, {38, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_38x19_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {38, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{38, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{38, 19}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{239, 256}, {38, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_47x59.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{47, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 59}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{125, 396}, {47, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_47x59_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{47, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 59}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{229, 338}, {47, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_49x37.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {47, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{49, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{49, 37}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{383, 308}, {49, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_50x40.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 328}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_50x40_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 286}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_50x40_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{78, 320}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_52x62.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{52, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 62}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 256}, {52, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_58x284.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {54, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{58, 284}</string>
+			<key>spriteSourceSize</key>
+			<string>{58, 284}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 0}, {58, 284}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_64x19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{64, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 19}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{449, 288}, {64, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_64x19_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{64, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 19}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{383, 287}, {64, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_66x37.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {64, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{66, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{66, 37}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{383, 248}, {66, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_68x53.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {66, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{68, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 53}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{385, 178}, {68, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_73x85.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {73, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{73, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 85}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{554, 0}, {73, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_73x85_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {73, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{73, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 85}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{479, 0}, {73, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_73x86.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {73, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{73, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 86}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{404, 0}, {73, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_74x76.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {70, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{74, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 76}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{386, 89}, {74, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_7x8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {7, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{7, 8}</string>
+			<key>spriteSourceSize</key>
+			<string>{7, 8}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{352, 89}, {7, 8}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_7x8_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {7, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{7, 8}</string>
+			<key>spriteSourceSize</key>
+			<string>{7, 8}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{343, 89}, {7, 8}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 6}, {37, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{554, 227}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 15}, {57, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{827, 0}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 18}, {59, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{130, 326}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 21}, {59, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{759, 210}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 23}, {53, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{759, 140}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 24}, {45, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 186}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 24}, {33, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{561, 157}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 20}, {21, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{583, 87}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 19}, {19, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{660, 157}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 17}, {25, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{284, 248}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 14}, {31, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 70}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {35, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 370}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 10}, {37, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{286, 178}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 1}, {33, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{455, 218}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 0}, {25, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{462, 148}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 0}, {17, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{728, 0}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 1}, {17, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{185, 186}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 3}, {27, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{781, 70}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 7}, {39, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{629, 0}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_97x68_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 11}, {49, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{97, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{97, 68}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{140, 256}, {97, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_98x34.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 5}, {78, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{286, 142}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_98x34_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 3}, {86, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{186, 114}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_98x34_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {90, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{286, 106}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_98x34_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {94, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 150}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_98x34_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {96, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 114}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_98x34_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {96, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 34}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{186, 150}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>u014e-cony-body_9x9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {9, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{9, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{9, 9}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{332, 89}, {9, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>u014e-cony-body.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
