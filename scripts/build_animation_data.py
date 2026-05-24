@@ -29,13 +29,14 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT_ROOT = ROOT / "animation_meta"
 PARTS = ("body", "bul", "bul2", "bul3")
 STARTUP_SEGMENTS = {
-    "normal_attack": "attack_ready",
-    "skill_1": "s_attack_ready",
-    "skill_2": "s2_attack_ready",
+    "normal_attack": ("attack_ready",),
+    "skill_1": ("s_attack_ready", "s_action_attack_1"),
+    "skill_2": ("s2_attack_ready",),
 }
 COMBO_SEGMENTS = {
     "attack_all": ("attack_ready", "attack"),
     "s_attack_all": ("s_attack_ready", "s_attack"),
+    "s_action_attack_all": ("s_action_attack_1", "s_action_attack_2", "s_action_attack_3"),
     "s2_attack_all": ("s2_attack_ready", "s2_attack"),
 }
 IGNORED_ROOT_DIRS = {
@@ -326,10 +327,17 @@ def build_unit(unit_dir: Path) -> dict[str, Any] | None:
         return None
 
     startup: dict[str, Any] = {}
-    for label, segment in STARTUP_SEGMENTS.items():
-        frame_count = body["animations"].get(segment, {}).get("frame_count", 0)
+    for label, segments in STARTUP_SEGMENTS.items():
+        picked_segment = segments[0]
+        frame_count = 0
+        for segment in segments:
+            candidate_count = body["animations"].get(segment, {}).get("frame_count", 0)
+            if candidate_count:
+                picked_segment = segment
+                frame_count = candidate_count
+                break
         startup[label] = {
-            "segment": segment,
+            "segment": picked_segment,
             "frames": frame_count,
             "seconds": round(frame_count / max(1, body["anim_rate"]), 4),
         }
