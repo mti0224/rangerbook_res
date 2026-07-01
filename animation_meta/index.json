@@ -1,5 +1,5 @@
 {
-  "count": 2796,
+  "count": 2808,
   "errors": [],
   "resource_root": ".",
   "units": {
@@ -45639,6 +45639,316 @@
       "thumbnail": "u1610u-sk/u1610u-sk-thum.png",
       "unit_id": "u1610u-sk"
     },
+    "u1611e-cony": {
+      "meta": "animation_meta/u1611e-cony.json",
+      "parts": [
+        "body",
+        "bul"
+      ],
+      "prefix": "u1611e-cony",
+      "resource_dir": "u1611e-cony",
+      "startup": {
+        "normal_attack": {
+          "frames": 18,
+          "seconds": 0.6,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1611e-cony/u1611e-cony-thum.png",
+      "unit_id": "u1611e-cony"
+    },
+    "u1611h-cony": {
+      "meta": "animation_meta/u1611h-cony.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul3"
+      ],
+      "prefix": "u1611h-cony",
+      "resource_dir": "u1611h-cony",
+      "startup": {
+        "normal_attack": {
+          "frames": 18,
+          "seconds": 0.6,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 44,
+          "seconds": 1.4667,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1611h-cony/u1611h-cony-thum.png",
+      "unit_id": "u1611h-cony"
+    },
+    "u1611u-cony": {
+      "meta": "animation_meta/u1611u-cony.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul3"
+      ],
+      "prefix": "u1611u-cony",
+      "resource_dir": "u1611u-cony",
+      "startup": {
+        "normal_attack": {
+          "frames": 18,
+          "seconds": 0.6,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 44,
+          "seconds": 1.4667,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1611u-cony/u1611u-cony-thum.png",
+      "unit_id": "u1611u-cony"
+    },
+    "u1612e-cony": {
+      "meta": "animation_meta/u1612e-cony.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul3"
+      ],
+      "prefix": "u1612e-cony",
+      "resource_dir": "u1612e-cony",
+      "startup": {
+        "normal_attack": {
+          "frames": 18,
+          "seconds": 0.6,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 44,
+          "seconds": 1.4667,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1612e-cony/u1612e-cony-thum.png",
+      "unit_id": "u1612e-cony"
+    },
+    "u1613e-moon": {
+      "meta": "animation_meta/u1613e-moon.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1613e-moon",
+      "resource_dir": "u1613e-moon",
+      "startup": {
+        "normal_attack": {
+          "frames": 13,
+          "seconds": 0.4333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 21,
+          "seconds": 0.7,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1613e-moon/u1613e-moon-thum.png",
+      "unit_id": "u1613e-moon"
+    },
+    "u1613h-moon": {
+      "meta": "animation_meta/u1613h-moon.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1613h-moon",
+      "resource_dir": "u1613h-moon",
+      "startup": {
+        "normal_attack": {
+          "frames": 13,
+          "seconds": 0.4333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 21,
+          "seconds": 0.7,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 54,
+          "seconds": 1.8,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1613h-moon/u1613h-moon-thum.png",
+      "unit_id": "u1613h-moon"
+    },
+    "u1613u-moon": {
+      "meta": "animation_meta/u1613u-moon.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1613u-moon",
+      "resource_dir": "u1613u-moon",
+      "startup": {
+        "normal_attack": {
+          "frames": 13,
+          "seconds": 0.4333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 21,
+          "seconds": 0.7,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 54,
+          "seconds": 1.8,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1613u-moon/u1613u-moon-thum.png",
+      "unit_id": "u1613u-moon"
+    },
+    "u1614e-moon": {
+      "meta": "animation_meta/u1614e-moon.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1614e-moon",
+      "resource_dir": "u1614e-moon",
+      "startup": {
+        "normal_attack": {
+          "frames": 13,
+          "seconds": 0.4333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 21,
+          "seconds": 0.7,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 54,
+          "seconds": 1.8,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1614e-moon/u1614e-moon-thum.png",
+      "unit_id": "u1614e-moon"
+    },
+    "u1615e-brown": {
+      "meta": "animation_meta/u1615e-brown.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul3"
+      ],
+      "prefix": "u1615e-brown",
+      "resource_dir": "u1615e-brown",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1615e-brown/u1615e-brown-thum.png",
+      "unit_id": "u1615e-brown"
+    },
+    "u1615h-brown": {
+      "meta": "animation_meta/u1615h-brown.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul3"
+      ],
+      "prefix": "u1615h-brown",
+      "resource_dir": "u1615h-brown",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 53,
+          "seconds": 1.7667,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1615h-brown/u1615h-brown-thum.png",
+      "unit_id": "u1615h-brown"
+    },
+    "u1616e-brown": {
+      "meta": "animation_meta/u1616e-brown.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul3"
+      ],
+      "prefix": "u1616e-brown",
+      "resource_dir": "u1616e-brown",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 53,
+          "seconds": 1.7667,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1616e-brown/u1616e-brown-thum.png",
+      "unit_id": "u1616e-brown"
+    },
     "u161e-styne": {
       "meta": "animation_meta/u161e-styne.json",
       "parts": [
@@ -66128,6 +66438,36 @@
       },
       "thumbnail": "u81029-drpaimon/u81029-drpaimon-thum.png",
       "unit_id": "u81029-drpaimon"
+    },
+    "u81030-wingwing": {
+      "meta": "animation_meta/u81030-wingwing.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2",
+        "bul3"
+      ],
+      "prefix": "u81030-wingwing",
+      "resource_dir": "u81030-wingwing",
+      "startup": {
+        "normal_attack": {
+          "frames": 21,
+          "seconds": 0.7,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 22,
+          "seconds": 0.7333,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 22,
+          "seconds": 0.7333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u81030-wingwing/u81030-wingwing-thum.png",
+      "unit_id": "u81030-wingwing"
     },
     "u82-moon": {
       "meta": "animation_meta/u82-moon.json",
