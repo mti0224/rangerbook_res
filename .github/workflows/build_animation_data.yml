@@ -2,6 +2,13 @@ name: Build animation metadata
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'u*/**'
+      - 'unit/**'
+      - 'scripts/build_animation_data.py'
 
 permissions:
   contents: write
