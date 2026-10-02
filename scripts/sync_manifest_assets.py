@@ -64,6 +64,12 @@ def parse_args() -> argparse.Namespace:
         default=Path(__file__).resolve().parents[1],
     )
     parser.add_argument("--cdn-base", default=DEFAULT_CDN_BASE)
+    parser.add_argument(
+        "--state-file",
+        type=Path,
+        default=None,
+        help="Persistent processed-resource state (default: <repo>/.resource_sync_state.json).",
+    )
     parser.add_argument("--commit", action="store_true")
     parser.add_argument("--push", action="store_true")
     parser.add_argument("--branch", default=None)
@@ -94,6 +100,10 @@ def _resource_rows(payload: Any) -> list[dict[str, Any]]:
     items = payload.get("items")
     if isinstance(items, list):
         return [row for row in items if isinstance(row, dict)]
+
+    targets = payload.get("targets")
+    if isinstance(targets, list):
+        return [row for row in targets if isinstance(row, dict)]
 
     batches = payload.get("batches")
     if isinstance(batches, list):
@@ -163,6 +173,53 @@ def choose_targets(rows: Iterable[dict[str, Any]]) -> list[Target]:
         selected[(resource_path, destination_dir)] = target
 
     return sorted(selected.values(), key=lambda item: item.resource_path)
+
+
+def target_state(target: Target) -> dict[str, Any]:
+    return {
+        "resourcePath": target.resource_path,
+        "signature": target.signature or None,
+        "size": target.size,
+    }
+
+
+def load_sync_state(path: Path) -> dict[str, Any]:
+    if not path.is_file():
+        return {"schemaVersion": 1, "processed": {}}
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {"schemaVersion": 1, "processed": {}}
+    if not isinstance(value, dict):
+        return {"schemaVersion": 1, "processed": {}}
+    if not isinstance(value.get("processed"), dict):
+        value["processed"] = {}
+    value["schemaVersion"] = 1
+    return value
+
+
+def write_sync_state(path: Path, state: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temp = path.with_name(f".{path.name}.tmp")
+    temp.write_text(
+        json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    os.replace(temp, path)
+
+
+def pending_targets(
+    targets: list[Target],
+    state: dict[str, Any],
+) -> list[Target]:
+    processed = state.get("processed", {})
+    if not isinstance(processed, dict):
+        processed = {}
+    return [
+        target
+        for target in targets
+        if processed.get(target.destination_dir) != target_state(target)
+    ]
 
 
 def _md5(path: Path) -> str:
@@ -370,6 +427,22 @@ def main() -> int:
         print("[RES SYNC] no eligible unit/icon resources in this manifest")
         return 0
 
+    state_file = (
+        args.state_file.resolve()
+        if args.state_file is not None
+        else repo_dir / ".resource_sync_state.json"
+    )
+    try:
+        state_rel = str(state_file.relative_to(repo_dir)).replace("\\", "/")
+    except ValueError as exc:
+        raise SyncError("--state-file must be inside --repo-dir") from exc
+
+    state = load_sync_state(state_file)
+    targets = pending_targets(targets, state)
+    if not targets:
+        print("[RES SYNC] all eligible unit/icon resources are already synchronized")
+        return 0
+
     target_dirs = sorted({target.destination_dir for target in targets})
     print(
         f"[RES SYNC] eligible resources={len(targets)} "
@@ -396,7 +469,17 @@ def main() -> int:
                 extract_zip(zip_path, repo_dir / target.destination_dir)
             )
 
-    changed = git_changed_paths(repo_dir, target_dirs)
+    processed = state.setdefault("processed", {})
+    if not isinstance(processed, dict):
+        processed = {}
+        state["processed"] = processed
+    for target in targets:
+        processed[target.destination_dir] = target_state(target)
+    state["schemaVersion"] = 1
+    write_sync_state(state_file, state)
+
+    commit_paths = sorted(set(target_dirs + [state_rel]))
+    changed = git_changed_paths(repo_dir, commit_paths)
     print(
         f"[RES SYNC] downloaded_bytes={downloaded} "
         f"written_files={len(written_files)} git_changes={len(changed)}"
@@ -407,7 +490,7 @@ def main() -> int:
     if args.commit:
         sha = commit_and_maybe_push(
             repo_dir=repo_dir,
-            paths=target_dirs,
+            paths=commit_paths,
             message=args.commit_message,
             push=args.push,
             branch=args.branch,
