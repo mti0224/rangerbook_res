@@ -1,0 +1,62 @@
+name: Sync official resource assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '4,14,24,34,44,54 * * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/sync_official_resources.yml'
+      - 'scripts/sync_manifest_assets.py'
+
+permissions:
+  actions: write
+  contents: write
+
+concurrency:
+  group: sync-official-resource-assets
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout resource repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /.github/
+            /scripts/
+            /ability_icon/
+            /gear_icon/
+            /skill_icon/
+            /.resource_sync_state.json
+
+      - name: Fetch RangerBook asset manifest
+        run: |
+          curl -fsSL --retry 3 --retry-delay 2             https://raw.githubusercontent.com/mti0224/rangerbook/main/res/resource_asset_manifest.json             -o /tmp/resource_asset_manifest.json
+
+      - name: Sync unit and icon resources
+        id: sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          before="$(git rev-parse HEAD)"
+          python scripts/sync_manifest_assets.py             --manifest /tmp/resource_asset_manifest.json             --repo-dir .             --commit             --push             --branch main             --commit-message "Sync LINE Rangers resource assets"
+          after="$(git rev-parse HEAD)"
+          if [ "$before" != "$after" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rebuild animation metadata
+        if: steps.sync.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build_animation_data.yml --ref main
