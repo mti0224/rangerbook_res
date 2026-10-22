@@ -1,0 +1,39 @@
+name: Validate public asset boundary
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  public-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /.github/
+            /CNAME
+            /.nojekyll
+      - name: Verify the tracked publication boundary
+        run: |
+          python3 - <<'PY'
+          import pathlib, subprocess
+          files = subprocess.check_output(['git', 'ls-files', '-z']).decode().split('\0')
+          allowed = {'.png', '.sam', '.plist', '.json', '.zip'}
+          invalid = []
+          for name in filter(None, files):
+              if name in {'CNAME', '.nojekyll', '.github/workflows/validate-public-assets.yml'}:
+                  continue
+              parts = pathlib.PurePosixPath(name).parts
+              if any(p.startswith('.') for p in parts) or pathlib.PurePosixPath(name).suffix.lower() not in allowed:
+                  invalid.append(name)
+          if invalid:
+              raise SystemExit('Non-asset files in published repository:\n' + '\n'.join(invalid))
+          print('PUBLIC_ASSETS_OK')
+          PY
