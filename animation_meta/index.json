@@ -1,5 +1,5 @@
 {
-  "count": 2881,
+  "count": 2897,
   "errors": [],
   "resource_root": ".",
   "schema_version": 2,
@@ -57749,6 +57749,518 @@
       "thumbnail": "u1640u-xi/u1640u-xi-thum.png",
       "unit_id": "u1640u-xi"
     },
+    "u1641e-crush": {
+      "meta": "animation_meta/u1641e-crush.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1641e-crush",
+      "resource_dir": "u1641e-crush",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1641e-crush/u1641e-crush-thum.png",
+      "unit_id": "u1641e-crush"
+    },
+    "u1641h-crush": {
+      "meta": "animation_meta/u1641h-crush.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1641h-crush",
+      "resource_dir": "u1641h-crush",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 61,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 2.0333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1641h-crush/u1641h-crush-thum.png",
+      "unit_id": "u1641h-crush"
+    },
+    "u1641u-crush": {
+      "meta": "animation_meta/u1641u-crush.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1641u-crush",
+      "resource_dir": "u1641u-crush",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 61,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 2.0333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1641u-crush/u1641u-crush-thum.png",
+      "unit_id": "u1641u-crush"
+    },
+    "u1642e-crush": {
+      "meta": "animation_meta/u1642e-crush.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1642e-crush",
+      "resource_dir": "u1642e-crush",
+      "startup": {
+        "normal_attack": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 61,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 2.0333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1642e-crush/u1642e-crush-thum.png",
+      "unit_id": "u1642e-crush"
+    },
+    "u1643e-sally": {
+      "meta": "animation_meta/u1643e-sally.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1643e-sally",
+      "resource_dir": "u1643e-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 25,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1643e-sally/u1643e-sally-thum.png",
+      "unit_id": "u1643e-sally"
+    },
+    "u1643h-sally": {
+      "meta": "animation_meta/u1643h-sally.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1643h-sally",
+      "resource_dir": "u1643h-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 25,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1643h-sally/u1643h-sally-thum.png",
+      "unit_id": "u1643h-sally"
+    },
+    "u1643u-sally": {
+      "meta": "animation_meta/u1643u-sally.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1643u-sally",
+      "resource_dir": "u1643u-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 25,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1643u-sally/u1643u-sally-thum.png",
+      "unit_id": "u1643u-sally"
+    },
+    "u1644e-sally": {
+      "meta": "animation_meta/u1644e-sally.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1644e-sally",
+      "resource_dir": "u1644e-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 25,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 53,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.7667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 58,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.9333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1644e-sally/u1644e-sally-thum.png",
+      "unit_id": "u1644e-sally"
+    },
+    "u1645e-jessica": {
+      "meta": "animation_meta/u1645e-jessica.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1645e-jessica",
+      "resource_dir": "u1645e-jessica",
+      "startup": {
+        "normal_attack": {
+          "frames": 16,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.5333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1645e-jessica/u1645e-jessica-thum.png",
+      "unit_id": "u1645e-jessica"
+    },
+    "u1645h-jessica": {
+      "meta": "animation_meta/u1645h-jessica.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1645h-jessica",
+      "resource_dir": "u1645h-jessica",
+      "startup": {
+        "normal_attack": {
+          "frames": 16,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.5333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 49,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.6333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1645h-jessica/u1645h-jessica-thum.png",
+      "unit_id": "u1645h-jessica"
+    },
+    "u1646e-jessica": {
+      "meta": "animation_meta/u1646e-jessica.json",
+      "parts": [
+        "body",
+        "bul",
+        "bul2"
+      ],
+      "prefix": "u1646e-jessica",
+      "resource_dir": "u1646e-jessica",
+      "startup": {
+        "normal_attack": {
+          "frames": 16,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.5333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 29,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.9667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 49,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.6333,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1646e-jessica/u1646e-jessica-thum.png",
+      "unit_id": "u1646e-jessica"
+    },
+    "u1647e-sally": {
+      "meta": "animation_meta/u1647e-sally.json",
+      "parts": [
+        "body"
+      ],
+      "prefix": "u1647e-sally",
+      "resource_dir": "u1647e-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 33,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.1,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 0,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.0,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1647e-sally/u1647e-sally-thum.png",
+      "unit_id": "u1647e-sally"
+    },
+    "u1647h-sally": {
+      "meta": "animation_meta/u1647h-sally.json",
+      "parts": [
+        "body",
+        "bul3"
+      ],
+      "prefix": "u1647h-sally",
+      "resource_dir": "u1647h-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 33,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.1,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 39,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.3,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1647h-sally/u1647h-sally-thum.png",
+      "unit_id": "u1647h-sally"
+    },
+    "u1647u-sally": {
+      "meta": "animation_meta/u1647u-sally.json",
+      "parts": [
+        "body",
+        "bul3"
+      ],
+      "prefix": "u1647u-sally",
+      "resource_dir": "u1647u-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 33,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.1,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 39,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.3,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1647u-sally/u1647u-sally-thum.png",
+      "unit_id": "u1647u-sally"
+    },
+    "u1648e-sally": {
+      "meta": "animation_meta/u1648e-sally.json",
+      "parts": [
+        "body",
+        "bul3"
+      ],
+      "prefix": "u1648e-sally",
+      "resource_dir": "u1648e-sally",
+      "startup": {
+        "normal_attack": {
+          "frames": 33,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.1,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 24,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 39,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.3,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u1648e-sally/u1648e-sally-thum.png",
+      "unit_id": "u1648e-sally"
+    },
     "u164e-alex": {
       "meta": "animation_meta/u164e-alex.json",
       "parts": [
@@ -82608,6 +83120,40 @@
       },
       "thumbnail": "u81030-wingwing/u81030-wingwing-thum.png",
       "unit_id": "u81030-wingwing"
+    },
+    "u81032-kaku": {
+      "meta": "animation_meta/u81032-kaku.json",
+      "parts": [
+        "body",
+        "bul2"
+      ],
+      "prefix": "u81032-kaku",
+      "resource_dir": "u81032-kaku",
+      "startup": {
+        "normal_attack": {
+          "frames": 25,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 0.8333,
+          "segment": "attack_ready"
+        },
+        "skill_1": {
+          "frames": 35,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.1667,
+          "segment": "s_attack_ready"
+        },
+        "skill_2": {
+          "frames": 33,
+          "meaning": "segment_duration",
+          "projectile_spawn_time": false,
+          "seconds": 1.1,
+          "segment": "s2_attack_ready"
+        }
+      },
+      "thumbnail": "u81032-kaku/u81032-kaku-thum.png",
+      "unit_id": "u81032-kaku"
     },
     "u82-moon": {
       "meta": "animation_meta/u82-moon.json",
